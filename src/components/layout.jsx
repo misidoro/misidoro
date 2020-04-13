@@ -1,8 +1,8 @@
 import React from 'react';
-import {Global, css} from '@emotion/core';
+import { Global, css } from '@emotion/core';
 import Header from './header';
 import Helmet from 'react-helmet';
-import useSiteMetadata from '../hooks/useSiteMetadata.js'
+import useSiteMetadata from '../hooks/use-site-metadata.js'
 
 require('typeface-open-sans')
 
